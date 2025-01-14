@@ -1,0 +1,7 @@
+uploads 
+node_modules
+upgrade
+upgrade-temp-backup
+/index.php
+/themes/index.php
+/plugins/index.php
